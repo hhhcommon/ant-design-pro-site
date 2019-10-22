@@ -36,7 +36,6 @@
 <url> <loc>https://pro.ant.design/docs/resource</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/new-page-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/graph-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pro.ant.design/docs/router-and-nav-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/mock-api-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/server-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/server</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -52,8 +51,6 @@
 <url> <loc>https://pro.ant.design/docs/ui-test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/ui-test-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pro.ant.design/docs/faq-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pro.ant.design/docs/router-and-nav</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/changelog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/changelog-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/blog/better-block</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -64,6 +61,9 @@
 <url> <loc>https://pro.ant.design/blog/change-theme</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/blog/better-block-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/blog/new-pro-use</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pro.ant.design/docs/router-and-nav-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pro.ant.design/docs/faq-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pro.ant.design/docs/router-and-nav</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/index-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
