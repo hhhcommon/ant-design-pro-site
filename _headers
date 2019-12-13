@@ -109,13 +109,6 @@
   Link: </styles-b9353372fffa5529808a.js>; rel=preload; as=script
   Link: </commons-ff281fa3c77529f80d53.js>; rel=preload; as=script
   Link: </component---src-templates-docs-tsx-5c12119ce992ad5924b1.js>; rel=preload; as=script
-/docs/deploy-cn
-  Link: </webpack-runtime-d3b88421132be724c2df.js>; rel=preload; as=script
-  Link: </commons-ff281fa3c77529f80d53.js>; rel=preload; as=script
-  Link: </app-1dc8a6a70afeaee908cb.js>; rel=preload; as=script
-  Link: </styles-b9353372fffa5529808a.js>; rel=preload; as=script
-  Link: </commons-ff281fa3c77529f80d53.js>; rel=preload; as=script
-  Link: </component---src-templates-docs-tsx-5c12119ce992ad5924b1.js>; rel=preload; as=script
 /docs/dynamic-theme
   Link: </webpack-runtime-d3b88421132be724c2df.js>; rel=preload; as=script
   Link: </commons-ff281fa3c77529f80d53.js>; rel=preload; as=script
@@ -537,6 +530,13 @@
   Link: </commons-ff281fa3c77529f80d53.js>; rel=preload; as=script
   Link: </component---src-templates-docs-tsx-5c12119ce992ad5924b1.js>; rel=preload; as=script
 /blog/use-eslint-typescript-cn
+  Link: </webpack-runtime-d3b88421132be724c2df.js>; rel=preload; as=script
+  Link: </commons-ff281fa3c77529f80d53.js>; rel=preload; as=script
+  Link: </app-1dc8a6a70afeaee908cb.js>; rel=preload; as=script
+  Link: </styles-b9353372fffa5529808a.js>; rel=preload; as=script
+  Link: </commons-ff281fa3c77529f80d53.js>; rel=preload; as=script
+  Link: </component---src-templates-docs-tsx-5c12119ce992ad5924b1.js>; rel=preload; as=script
+/docs/deploy-cn
   Link: </webpack-runtime-d3b88421132be724c2df.js>; rel=preload; as=script
   Link: </commons-ff281fa3c77529f80d53.js>; rel=preload; as=script
   Link: </app-1dc8a6a70afeaee908cb.js>; rel=preload; as=script
